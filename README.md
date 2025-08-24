@@ -1,2 +1,2 @@
-# oauth2-django-playground
+# oauth2-playground
 Playground client for testing different scenarios in an Identity Provider acting as OAuth2 Server, like Keycloak, Auth0, WSO2, etc...
