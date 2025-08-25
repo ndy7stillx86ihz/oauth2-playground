@@ -21,7 +21,7 @@ RUN adduser --disabled-password --gecos '' appuser && \
     chown -R appuser:appuser /app
 USER appuser
 
-EXPOSE 8000
+EXPOSE 10000
 
 ENV DJANGO_SECRET_KEY=your-secret-key-here-change-in-production
 
